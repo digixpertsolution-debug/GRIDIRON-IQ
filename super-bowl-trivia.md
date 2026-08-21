@@ -10,3 +10,15 @@ Facts tested:
 Question structures used: Numerical, Specific Detail, Comparison, Nearly Correct, Overlooked Detail, Hidden Fact
 Question count: 6
 Correct answer distribution: A-2, B-2, C-2
+## 2026-08-21 — Category: Super Bowl Trivia | Angle: Underdogs & Upsets
+Angle taken: Explored famous underdog Super Bowl wins and historic upsets, spanning point-spread guarantees, streak-breaking wins, ended undefeated seasons, and clutch/blown finishes.
+Facts tested:
+- Joe Namath guaranteed the Jets' win over the favored Colts (Super Bowl III)
+- The Patriots beat the "Greatest Show on Turf" Rams as 14-point underdogs (Super Bowl XXXVI)
+- The 2007 Patriots' undefeated season ended in a Super Bowl upset loss (Super Bowl XLII)
+- The Broncos snapped a 13-game AFC losing streak (Super Bowl XXXII)
+- Nick Foles was a backup QB for most of the season before winning Super Bowl MVP (Super Bowl LII)
+- The Bills' Scott Norwood missed a last-second field goal, sealing the Giants' win (Super Bowl XXV)
+Question structures used: Specific Detail, Numerical/Hidden Fact, Overlooked Detail, Timeline, Hidden Fact, Overlooked Detail
+Question count: 6
+Correct answer distribution: A-2, B-2, C-2
