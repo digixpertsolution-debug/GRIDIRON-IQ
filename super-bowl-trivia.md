@@ -22,3 +22,15 @@ Facts tested:
 Question structures used: Specific Detail, Numerical/Hidden Fact, Overlooked Detail, Timeline, Hidden Fact, Overlooked Detail
 Question count: 6
 Correct answer distribution: A-2, B-2, C-2
+## 2026-08-22 — Category: Super Bowl Trivia | Angle: Legendary Comebacks
+Angle taken: Explored famous Super Bowl comebacks and momentum-shifting moments, spanning largest deficit overcome, late go-ahead scores, game-winning drives, and an in-game event that sparked a rally.
+Facts tested:
+- The Patriots overcame a 28-3 deficit against the Falcons, the largest in Super Bowl history (Super Bowl LI)
+- Santonio Holmes caught the late go-ahead touchdown to beat the Cardinals (Super Bowl XLIII)
+- Joe Montana's game-winning drive ended with 34 seconds remaining (Super Bowl XXIII)
+- The Chiefs scored 21 unanswered points to beat the 49ers (Super Bowl LIV)
+- Mario Manningham's sideline catch sparked the Giants' winning drive against the Patriots (Super Bowl XLVI)
+- A 34-minute power outage helped spark the 49ers' comeback against the Ravens (Super Bowl XLVII)
+Question structures used: Numerical, Specific Detail, Hidden Fact, Comparison/Numerical, Overlooked Detail, Hidden Fact
+Question count: 6
+Correct answer distribution: A-2, B-2, C-2
